@@ -20,6 +20,10 @@ This project will first focus on tutorials. This means that:
 
 The main tutorial page is [tutorial.md](tutorial.md)
 
+Checkout this awesome Youtube video, showing the main functions of grocy:
+
+[![Grocy - Trying out the demo](http://img.youtube.com/vi/qMs9e-1bMGw/0.jpg)](http://www.youtube.com/watch?v=qMs9e-1bMGw "Grocy - Trying out the demo")
+
 # Feedback
 
 Please leave an issue if you think there is a topic that needs further documentation and is not planned yet. (See planned sections below.)
@@ -46,9 +50,24 @@ Please leave an issue if you think there is a topic that needs further documenta
 - [ ] Use: track your things!
   - Batteries
   - Equipment
-- [ ] Use: track your chores and tasks!
+- [x] Use: track your chores and tasks!
   - Chores overview
   - Tasks
   - Chore tracking
 - [ ] Examples
-- FAQ (?)
+
+## Planned how-tos
+
+The main how-to page is the [How-to masterlist](how-to.md)
+
+Notes on how-tos:
+- the target audience of these are not only first- and second-time users, but also current users who want to extend functionality
+- structure should be specific topic-based, that is, titles should be descriptive
+- technical debt should be moderate
+- the language should be clear, with short sentences and an informal tone
+- topics can first start in the FAQ; if they turn out to be too large, they can be separated into their own pages
+
+- [ ] FAQ
+- [ ] How to migrate from HASS to Docker
+- [ ] How to set up a barcode scanner
+- [ ] Using custom fields
